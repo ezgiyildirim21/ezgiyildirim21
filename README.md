@@ -5,7 +5,7 @@
 
 <hr> 
 
-I am a newly graduated engineer💖 and one of the students enrolled in the Bilge Adam Boost system. 
+I am an engineer 😄 who has just graduated from university and I am a registered student in 👩‍💻 Bilge Adam Academy Qualified Software Development Program.
 
 - 🌱 I’m currently learning C# Programming.
 - 🌟 In the future, I want to be in the game industry, to be a part of the creation stages of a game.
