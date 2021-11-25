@@ -13,4 +13,5 @@ I am an engineer 😄 who has just graduated from university and I am a register
 - <a href="www.linkedin.com/in/ezgi-yıldırım-970379175/"> <img align="left" alt="Ezgi's Linkedin" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
  </a>
 - In summary, I want to explore the software world.
+
  <img alt="GIF" src="https://img-s1.onedio.com/id-55e0602cf82cb05149e6cffe/rev-0/w-600/h-336/f-gif/s-7c55c89983f4597785d4484d5578f198e4f39474.gif" width = 500/>
