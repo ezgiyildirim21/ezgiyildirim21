@@ -8,9 +8,7 @@
 I am an engineer 😄 who has just graduated from university and I am a registered student in 👩‍💻 Bilge Adam Academy Qualified Software Development Program.
 
 - 🌱 I’m currently learning C# Programming.
-- 🌟 In the future, I want to be in the game industry, to be a part of the creation stages of a game.
 - 📫 How to reach me: ezgiyildirim38@gmail.com
-- ⚡ Fun fact: I 💖 talk 24/7.
 - <a href="www.linkedin.com/in/ezgi-yıldırım-970379175/">
 - <img align="left" alt="Ezgi's Linkedin" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
  </a>
