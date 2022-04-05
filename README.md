@@ -5,7 +5,7 @@
 
 <hr> 
 
-I am an engineer 😄 who has just graduated from university and I am a registered student in 👩‍💻 Bilge Adam Academy Qualified Software Development Program.
+I am an engineer 😄 who has graduated from university and I am a registered student in 👩‍💻 Bilge Adam Academy Qualified Software Development Program.
 
 - 🌱 I’m currently learning C# Programming.
 - <img height="25" src="https://pbs.twimg.com/profile_images/1278344911847223297/k1ginRMI_400x400.jpg">
