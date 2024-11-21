@@ -4,7 +4,7 @@
 
 <img alt="GIF" src="https://img-s1.onedio.com/id-55e0602cf82cb05149e6cffe/rev-0/w-600/h-336/f-gif/s-7c55c89983f4597785d4484d5578f198e4f39474.gif" width = 500/>
 
-- 💬 Ask me about **.Java, Pyhton, Selenium, Robot Framework React, React Native**
+- 💬 Ask me about **Java, Pyhton, Selenium, Robot Framework React, React Native**
 
 - 📫 How to reach me **ezgiyildirim38@gmail.com**
 
